@@ -1,0 +1,14 @@
+list of Students:
+#master
+
+<<<<<<< HEAD
+#1
+first
+=======
+#2
+second
+>>>>>>> #2
+#3
+=======
+#4
+forth

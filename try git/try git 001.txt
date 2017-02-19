@@ -1,0 +1,3 @@
+first try
+add new branch from TryGit001
+now I'm in nb2B_fromTryGit001
