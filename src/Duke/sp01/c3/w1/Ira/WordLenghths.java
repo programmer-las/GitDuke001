@@ -101,7 +101,7 @@ public class WordLenghths {
         System.out.println("countAllWords = " + countAllWords);
     }
     public static int indexOfMax() {
-
+        return 0;
     }
     public static void testCountWordLengths(){
 //        FileResource resource = new FileResource();
